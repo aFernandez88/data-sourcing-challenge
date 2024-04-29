@@ -1,10 +1,11 @@
-**Movie Reviews**
+Movie Reviews
 
 In this project I am extracting data from two different sources: The New York Times API and The Movie Database (TMDb) API. I am combining these data sets to help people find movie reviews and related movies through a recommendation system.
 
 
 
-**Requirements**
+
+Requirements:
 
 Python
 
@@ -15,7 +16,8 @@ API keys for The New York Times and TMDB
 
 
 
-**Usage**
+
+Usage:
 
 Obtain API keys for The New York Times and TMDB.
 
@@ -26,7 +28,8 @@ Run the script, and the extracted data will be saved in a CSV file.
 
 
 
-**Sources**
+
+Sources:
 
 The New York Times API Documentation
 
